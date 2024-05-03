@@ -35,4 +35,5 @@ function plotf(X, fa)
     xlabel('frequência (Hz)');
     ylabel('Amplitude');
     title('Espectro de Amplitude');
+    grid;
 end
